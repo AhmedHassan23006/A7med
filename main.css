@@ -1,0 +1,38 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    text-align: center;
+}
+img{
+    
+    width: 100%;
+  
+}
+.content{
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;    
+
+}
+a{
+    width: 250px;
+    height: 400px;
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.Ahmed{
+    height: 160px;
+}
+i{
+    font-size: 30px;
+    margin-top:-65px ;
+    margin-left: 200px;
+}
